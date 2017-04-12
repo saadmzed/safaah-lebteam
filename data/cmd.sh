@@ -27,5 +27,5 @@ echo 'CPU Usage : '"$CPUPer"'%'
 echo 'Hdd : '"$hdd"'%'
 echo 'Processes : '"$ProcessCnt"
 echo 'Uptime : '"$uptime"
-echo "Bot - Net "
-echo "Coded By Sajad Aliraqe"
+echo "lebteam"
+echo "📌:DV|:@mor33b599:📌:DV|:@saad7m"
