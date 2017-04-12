@@ -9,12 +9,9 @@ return [[
 
 راسـل حـد المـطوين كـبد عمـري :🌹
 
-📬/DEV:﴾ @AHMED_ALOBIDE ﴿
-📬/DEV: 🐯﴾ @hussian_9 ﴿🐯
-📬/DEV: 🎭﴾ @Tiq_ll ﴿🎭
-📬/DEV: 🃏﴾ @TH2BOSS ﴿🃏
-📬/DEV: ⚜﴾ @Project_313 ﴿⚜
-📬/DEV: 🔷﴾ @EsT_IQ_XxX ﴿🔷
+📌:DV|:@mor33b599
+📌:DV|:@saad7m
+📌:CH|:@lebteam
 🔺〰〰〰〰〰〰〰〰〰🔺
 ]]
 end
