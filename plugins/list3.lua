@@ -33,12 +33,9 @@ return [[
 〰〰〰〰〰〰〰〰〰〰〰
 لمزيد من المعلومات حول البوت واستعمالة
 〰〰〰〰〰〰〰〰〰〰〰
-🛃المطور: @AHMED_ALOBIDE
-🛃المطور:@hussian_9
-🛃المطور:@Tiq_ll
-🛃المطور:@project_kali
-🛃المطور:@EsT_IQ_XxX
-🛃المطورة:@NoOoR_DeVA
+📌:DV|:@mor33b599
+📌:DV|:@saad7m
+📌:CH|:@lebteam
 ]]
 end
 
