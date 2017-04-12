@@ -84,7 +84,6 @@ do local _ = {
     "meke.sorus",
     "meke.dev",
     "meke.talem",
-    "meke.welacam",
     "meke.tadel1",
     "ar-h11",
     "ar-h22",
