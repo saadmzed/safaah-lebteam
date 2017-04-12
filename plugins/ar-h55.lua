@@ -12,11 +12,9 @@ return [[
 📌مسح رسائل المجموعه : مسح + العدد
 📌مكانك من المجموعه : موقعي 
 🔸➖🔹➖🔸➖🔹➖🔸➖🔹
-📌:DV|:@AHMED_ALOBIDE
-📌:DV|:@hussian_9
-📌:DV|:@Tiq_ll
-📌:DV|:@R_eks
-📌:DV|:@project_kali
+📌:DV|:@mor33b599
+📌:DV|:@saad7m
+📌:CH|:@lebteam
 ]]
 end
 
